@@ -122,6 +122,16 @@ li {
   position: absolute;
   top: 101px;
 }
+.header p {
+  background: #163b4e;
+  background: rgba(22,59,78,0.85);
+  padding: 8px 40px;
+  position: absolute;
+  left: 0;
+  top: 101px;
+  width: 440px;
+  z-index: 1;
+}
 
 /* ----- Form ----- */
 
